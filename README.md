@@ -120,12 +120,14 @@ me.say_hi()
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhabeshsah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://komarev.com/ghpvc/?username=bhabeshsah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 <!-- You've reached the end of my README! Thanks for visiting! -->
